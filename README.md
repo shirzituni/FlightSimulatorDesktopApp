@@ -5,7 +5,7 @@ About
 This project is a flight simulator desktop app, displayed by FlightGear.
 In this project, we implemented flight simulator features according to user stories.
 
-We build this project based on MVVM architecture as follow:
+We built this project based on MVVM architecture as follow:
 
 - Model - refers either to a domain model, which represents real state content.
   There are 5 model classes:
